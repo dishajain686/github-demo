@@ -1,0 +1,6 @@
+E:\JobTraining\HelloWorld\HelloWorld\bin\x86\Release\HelloWorld.exe.config
+E:\JobTraining\HelloWorld\HelloWorld\bin\x86\Release\HelloWorld.exe
+E:\JobTraining\HelloWorld\HelloWorld\bin\x86\Release\HelloWorld.pdb
+E:\JobTraining\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.csproj.CoreCompileInputs.cache
+E:\JobTraining\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.exe
+E:\JobTraining\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.pdb

@@ -1,0 +1,7 @@
+E:\JobTraining\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\JobTraining\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\JobTraining\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\JobTraining\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+E:\JobTraining\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\JobTraining\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\JobTraining\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
